@@ -1,6 +1,6 @@
 data/raw/
 data/processed/
-models/*.pkl
+mlflow.db/
 mlruns/
 __pycache__/
 *.pyc
