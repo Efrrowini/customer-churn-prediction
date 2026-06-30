@@ -146,4 +146,4 @@ Available on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-c
 
 ---
 
-*Built by Efro | Presidency University Bangalore | Data Science Portfolio*
+*Built by Efrrowini | Presidency University Bangalore | Data Science Portfolio*
